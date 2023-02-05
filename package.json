@@ -1,0 +1,20 @@
+{
+    "name": "ultitest",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "index.html",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/firetool11/ultitest.git"
+    },
+  "author": "",
+  "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/firetool11/ultitest/issues"
+    },
+    "homepage": "https://github.com/firetool11/ultitest#readme"
+}
